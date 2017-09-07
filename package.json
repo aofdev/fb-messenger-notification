@@ -1,0 +1,27 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "first facebook bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahaha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add late"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "bot",
+    "heroku"
+  ],
+  "author": "aof.dev@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "firebase-admin": "^5.2.1",
+    "request": "^2.81.0"
+  }
+}
